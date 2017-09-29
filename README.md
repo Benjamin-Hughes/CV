@@ -36,7 +36,7 @@ First year AVCE IT
 GCSE Maths, English, Science, Double Science, Geography
 
 ## Work History
-###Retail Supervisor, Martin McColls
+### Retail Supervisor, Martin McColls
 Responsible for running the evening shift at my store. Responsibilities included cashing up tills, keeping staff organised and on task, overseeing deliveries, serving customers and closing each night.
 
 ## Hobbies
