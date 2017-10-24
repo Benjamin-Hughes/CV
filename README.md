@@ -12,7 +12,7 @@ I want to take this natural curiosity and apply it to web development.
 I've worked in customer facing roles my entire working life so effectively communicating with people from all walks of life has always been a big part of what I do. During the course I've been complemented several times on my ability to take a complex subject or task and break it down into easy to understand ideas.
 
 ### Fast Learner
-I'm able to pick up new technologies relatively quickly - during my first project at Makers, we built and AirBnB clone using Javascript, Node, Express, Postgress, Sequelize in a week with no prior exposure to Node and only a couple of weeks Javascript exposure.
+I'm able to pick up new technologies relatively quickly - during my first project at Makers, we built an AirBnB clone using Javascript, Node, Express, Postgress, Sequelize in a week with no prior exposure to Node and only a couple of weeks Javascript exposure.
 
 
 
