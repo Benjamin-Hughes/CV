@@ -23,6 +23,7 @@ I'm able to pick up new technologies relatively quickly - during my first projec
 |  MakersBnB | Javascript Nodejs, Express, Posgress, Sequelize | An AirBnB clone built in a week with no prior exposure to Nodejs | [AirBnB](https://github.com/chuk-chuk/makersbnb) |
 | Gorillas | Javascript, HTML5 Canvas| A complete remake of the classic gorillas QBASIC game. Built from scratch in pure Javascript/HTML5 with no frameworks | [Gorillas](https://github.com/Alexander-Blair/gorillas-game-tribute) |
 |Acebook | Ruby, Ruby on Rails, Bootstrap, Devise | Facebook clone, again built in a week. This was a much bigger project with the entire cohort contributing (16 people) | [Acebook](https://github.com/makersacademy/acebook-july2017) |
+| MidoriBB | Nodejs, Express, MongoDB, Postgres, BCrypt, Passport, Mocha, Chai |  A Nodejs/Express based Bulletin Board. Initially mostly spiked code, currently undergoing a rewrite to move from MongoDB to Postgres and include more rigid testing | [MidoriBB](https://github.com/Benjamin-Hughes/MidoriBB/tree/legacy_code)
 
 ## Education
 
@@ -31,7 +32,7 @@ I'm able to pick up new technologies relatively quickly - during my first projec
 - OOP
 - TDD
 - Agile methodologies
-- 
+
 
 ### Canterbury College
 First year AVCE IT
