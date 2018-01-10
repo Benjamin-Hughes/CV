@@ -28,6 +28,10 @@ I'm able to pick up new technologies relatively quickly - during my first projec
 
 ### Makers Academy
 12 week intensive web development bootcamp
+- OOP
+- TDD
+- Agile methodologies
+- 
 
 ### Canterbury College
 First year AVCE IT
@@ -41,4 +45,4 @@ Responsible for running the evening shift at my store. Responsibilities included
 
 ## Hobbies
 
-I'm a keen gamer, reader, guitarist and occasionally can be found tinkering with Arduino based microelectronics. I'm also slowly learning Japanese and recently picked up drawing again for the first time in years. 
+I'm a keen gamer, reader, guitarist and occasionally can be found tinkering with Arduino based microelectronics. I'm also slowly learning Japanese and recently picked up drawing again for the first time in years.
