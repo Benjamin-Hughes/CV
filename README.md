@@ -2,6 +2,7 @@
 
 # Ben Hughes
 [Github](https://github.com/Benjamin-Hughes) [Linkedin](https://www.linkedin.com/in/ben-hughes-uk/)
+benhughes@protonmail.com
 
 Most of my working background is in retail, but I have always wanted to work within the tech industry. I love exploring new technologies and finding out what makes them tick and I'm always on the lookout for something new to learn.
 I want to take this natural curiosity and apply it to web development.
